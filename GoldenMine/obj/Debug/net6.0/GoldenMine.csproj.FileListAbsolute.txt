@@ -1,0 +1,15 @@
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/bin/Debug/net6.0/GoldenMine
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/bin/Debug/net6.0/GoldenMine.deps.json
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/bin/Debug/net6.0/GoldenMine.runtimeconfig.json
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/bin/Debug/net6.0/GoldenMine.dll
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/bin/Debug/net6.0/GoldenMine.pdb
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.csproj.AssemblyReference.cache
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.AssemblyInfoInputs.cache
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.AssemblyInfo.cs
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.csproj.CoreCompileInputs.cache
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.dll
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/refint/GoldenMine.dll
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.pdb
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/GoldenMine.genruntimeconfig.cache
+/home/hugovasko/RiderProjects/Golden-Mine/GoldenMine/obj/Debug/net6.0/ref/GoldenMine.dll
